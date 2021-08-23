@@ -14,11 +14,13 @@ The following **optional** features are implemented:
 * [ ] User can **tap a todo item in the list and bring up an edit screen for the todo item** and then have any changes to the text reflected in the todo list
 ## Video Walkthrough
 Here's a walkthrough of implemented user stories:
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
- 
+
+<img src='https://i.imgur.com/7lBQaVZ.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
-Describe any challenges encountered while building the app.
+This was my first time programming in Android Studio. I faced a few challenges in the beginning, but got the hang of it after awhile :) Very excited for the upcoming projects!
 ## License
     Copyright [2021] [Chiamaka Nnawulezi]
     Licensed under the Apache License, Version 2.0 (the "License");
